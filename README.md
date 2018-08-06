@@ -6,5 +6,5 @@
 Node.js, Express, Socket.io 
 
 ## Screen Shot
-![](chat_page.png)
 ![](main_page.png)
+![](chat_page.png)
